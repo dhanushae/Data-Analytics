@@ -1,4 +1,4 @@
-# 📦 Ecommerce Delivery Analytics Dashboard (Excel)
+# Ecommerce Delivery Analytics Dashboard (Excel)
 
 ## 📌 Project Overview
 This project is an **end-to-end Excel dashboard** designed to analyze **ecommerce delivery performance** across multiple quick-commerce platforms such as **Blinkit, Instamart, and JioMart**.  

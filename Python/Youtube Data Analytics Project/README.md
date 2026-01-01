@@ -1,4 +1,4 @@
-# 📊 Trending YouTube Videos Data Analysis (Python)
+#Trending YouTube Videos Data Analysis (Python)
 
 ## 📌 Project Overview
 This project analyzes **Trending YouTube Videos** using Python to uncover patterns in **content popularity, engagement, categories, and publishing trends**.  

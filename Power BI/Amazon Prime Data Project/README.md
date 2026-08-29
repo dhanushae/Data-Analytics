@@ -1,4 +1,6 @@
 # Amazon Prime Video Analytics Dashboard (Power BI)
+<img width="1282" height="718" alt="Screenshot 2026-08-29 155210" src="https://github.com/user-attachments/assets/d3491143-9cf7-4a9e-a161-0a15cfddb39f" />
+
 
 ## 📌 Project Overview
 This project is a **Power BI dashboard** designed to analyze **Amazon Prime Video content data**, focusing on **Movies and TV Shows** available on the platform.  

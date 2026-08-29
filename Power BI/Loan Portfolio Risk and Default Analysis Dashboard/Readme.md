@@ -1,11 +1,12 @@
 # 📊 Loan Portfolio Risk and Default Analysis Dashboard (Python + Power BI)
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/8ffdb303-be55-475a-a89b-71aba4fe2b79" />
+<img width="1173" height="795" alt="1" src="https://github.com/user-attachments/assets/9f408d9b-35ae-4b86-9479-40830487d086" />
 
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/13620d96-2f58-432b-8449-d97dcdb50526" />
+<img width="1161" height="785" alt="2" src="https://github.com/user-attachments/assets/9249422a-0247-4da7-9bf9-5866f00c2231" />
 
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/ede1a5f2-6503-4686-95ce-419dab7cd7f1" />
+<img width="1177" height="784" alt="3" src="https://github.com/user-attachments/assets/3c2ef3d0-8b1c-46b5-89bf-1eb6e03cdcdf" />
 
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/388707e6-b616-437a-b13f-37c43a0009d6" />
+
+<img width="1173" height="791" alt="4" src="https://github.com/user-attachments/assets/cfd721ee-b99a-43dc-81eb-7b7e812126ac" />
 
 ## 📌 Project Overview
 This project analyzes **loan portfolio performance and default risk** using **Python for data preprocessing** and **Power BI for interactive dashboard visualization**.
